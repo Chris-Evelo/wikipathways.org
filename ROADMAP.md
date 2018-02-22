@@ -10,14 +10,14 @@ _This is the official roadmap for WikiPathways and related development. These it
 4. Pathway infobox. A new widget added to every pathway page with automatically generated [stats, annotations and links](https://docs.google.com/document/d/12xEqjevcMm9N50q-L3jQU5fQZ9Ubcj5wxWgmuztJVjM/edit?usp=sharing). This will be distinct from curated content, and standardized across all pathways.
 
 ## Specific Milestones for 2018
-1. GPML 2017
-2. Release M44
+- [ ] GPML 2017
+- [x] Release M44
   * Security updates: all pages are now HTTPS 
-3. [Release M45](https://github.com/wikipathways/wikipathways.org/milestone/1)
+- [x] [Release M45](https://github.com/wikipathways/wikipathways.org/milestone/1)
   * Major performance improvement for every pathway page
   * New JSON pathway model
   * Beta release of automatic identifier mapping for Pathway Widget
-4. Release M46 
+- [ ] Release M46 
 
 ---
 _Thanks to [jspm](https://github.com/jspm) for their roadmap example._
